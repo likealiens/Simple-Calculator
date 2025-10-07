@@ -47,11 +47,11 @@ The result is: 8
 
 ## ⚙️ Installation & Usage
 
-### 1️⃣ Clone or download the repository
+### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/cpp-calculator.git
-cd cpp-calculator
+git clone https://github.com/likealiens/simpleCalculator.git
+cd simpleCalculator
 ```
 
 ### 2️⃣ Compile the program
@@ -89,11 +89,23 @@ double divide(double x, double y)   { return x / y; }
 
 ## 🧑‍💻 Author
 
-**Davlat**
-🎓 Student at New Uzbekistan University — studying **AI & Robotics**
+**Davlat (likealiens)**
 💡 Learning **C++**, exploring algorithms, and building cool console projects.
 🌐 GitHub: [likealiens](https://github.com/likealiens)
 
 ---
+
+## ⭐ Future Improvements
+
+* Add input validation
+* Handle division by zero
+* Add loop for multiple calculations
+* Maybe a GUI version (with SFML or Qt) later 👀
+
+---
+
 ### 🖤 Made with C++ and curiosity.
+
 ```
+
+---
